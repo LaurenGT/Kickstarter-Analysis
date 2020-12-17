@@ -17,3 +17,7 @@ Something this data set does not show is what type of promoting is associated wi
 In addition to the tables and graphs presented in this report, this data could be represented in other potentially useful ways to identify trends in Kickstarter campaigns. It could be reviewed as state versus the goal to identify any potential “sweet spots” for a funding goal. Analysing staff picks and spotlight campaigns as they correlate to state, percent funded and categories or subcategories could provide new insight. Adding an additional calculation to show the duration of a campaign from creation to ending would allow for a comparison of duration to state, category or subcategory or percent funded to review the average duration of campaigns and if this has any impact on the final outcome of the campaign.
 
 ## Statistical Analysis
+
+There is more variability with successful campaigns than with failed campaigns. This is a logical outcome considering the difference in the maximum number of backers between successful and failed campaigns. The is a much larger range in the amount of backers in the successful campaigns than in the failed campaigns. 
+
+In the case of both the successful and failed campaigns, using the median to summarize the data is more meaningful. The data is skewed by a large number of outliers in both scenarios as well as some of these outliers falling far outside of the interquartile range.
