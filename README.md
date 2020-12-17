@@ -12,7 +12,7 @@ A third conclusion to draw from this data is that the month of May has the highe
 
 Something this data set does not show is what type of promoting is associated with each campaign. By looking at this data set, we are unable to determine how hands on or involved the campaign creators were. Also not included in the data is individual contribution amounts by backers. In campaigns with more than one backer, we are unable to use anything value other than total or average contributions. A third limitation of this data set is a lack of cancellation reasons. Being able to understand campaigns that met or exceeded their funding goals or campaigns that received no backers or funding but ultimately ended up cancelled could shed light on trends within this state. One last limitation is the different currencies included in the data set not allowing for a one to one comparison of campaigns from different companies.
 
-## Alternate charts options
+## Alternate chart options
 
 In addition to the tables and graphs presented in this report, this data could be represented in other potentially useful ways to identify trends in Kickstarter campaigns. It could be reviewed as state versus the goal to identify any potential “sweet spots” for a funding goal. Analysing staff picks and spotlight campaigns as they correlate to state, percent funded and categories or subcategories could provide new insight. Adding an additional calculation to show the duration of a campaign from creation to ending would allow for a comparison of duration to state, category or subcategory or percent funded to review the average duration of campaigns and if this has any impact on the final outcome of the campaign.
 
